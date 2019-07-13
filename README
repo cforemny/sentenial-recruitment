@@ -1,0 +1,10 @@
+Given an input CSV file adhering to following format: debtorAccount,creditoAccount,amount,date
+matching Payment class, implement PaymentRepository.
+Please keep in mind that any IO operation is expensive and should be invoked * as little as possible.
+Introduce any data structures that will optimize method usage.
+Adhere to coding principles and good practices.
+Convert PaymentRepository implementation into Spring bean that could be used
+in web environment so it can be safely accessed by web controllers.
+Write tests (junit or testng) proving that the service works as expected.
+
+
